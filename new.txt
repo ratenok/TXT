@@ -1,0 +1,4 @@
+Name: Kovtun Viktoriya
+Age: 29
+Pets: 3
+Salary: 500$
